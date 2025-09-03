@@ -3,7 +3,7 @@ package leetcode;
 import java.util.Stack;
 
 public class ValidParenthese {
-    // STT : 20
+    // STT : 20.
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for (char c : s.toCharArray()) {

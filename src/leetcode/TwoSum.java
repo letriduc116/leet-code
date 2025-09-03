@@ -1,7 +1,6 @@
 package leetcode;
 
 public class TwoSum {
-
     // STT: 1
     public static int[] twoSum(int[] nums, int target) {
         int n = nums.length;
